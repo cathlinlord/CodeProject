@@ -12,3 +12,13 @@ This app is to be used to log fish sighting data within the French Creek Watersh
 
 ## Instructions for app use
   - Visit the PDF "Instructions" within the "Code" repository.
+
+
+## Limitations
+- The modifications of this application is limited to coding of Esri ArcGIS Online.
+- The application is meant for this study region only, as it can be used as an
+  educational tool for Allegheny College. The study region is also restricted to
+  the Pennsylvania portion of the French Creek watershed due to available data. 
+
+## Future Work
+- Future work of this application will include maintenance work.
